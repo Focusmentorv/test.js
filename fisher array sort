@@ -22,7 +22,7 @@ function myFunction() {
   }
   document.getElementById("demo").innerHTML = points;
 }
-</script>
+</script>    
 
 </body>
 </html>
